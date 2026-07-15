@@ -99,9 +99,16 @@ A local AI system that indexes test reports and documentation, then answers natu
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpdinesh&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vpdinesh&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  cel.app/api/top-langs/?username=vpdinesh&layout=compact" />
+</p>
+``
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpdinesh&layout=compact)
 `
