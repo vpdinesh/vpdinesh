@@ -79,6 +79,15 @@ A local AI system that indexes test reports and documentation, then answers natu
 - 📊 Answers grounded in actual test reports
 - ⚡ 3-minute setup
 
+### 🎯 [TestPrompts](https://github.com/vpdinesh/TestPrompts)
+**Curated GenAI Prompt Library for QA Engineers**
+
+A collection of battle-tested prompt templates that produce production-ready test artifacts — test cases, automation scripts, security tests, bug analysis, and reports.
+
+- 📋 8 categories (test generation, security, API, automation, planning, reviews)
+- 🔁 Copy-paste-ready with RCTCF framework (Role, Context, Task, Constraints, Format)
+- 🧪 Works with any AI tool (ChatGPT, Copilot, Kiro, Claude)
+
 ---
 
 ## 🏆 Certifications
@@ -98,8 +107,6 @@ A local AI system that indexes test reports and documentation, then answers natu
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vpdinesh)
 
 ---
-
-
 
 <p align="center">
   <i>"I use AI to build test systems faster — but I validate every output before it ships."</i>
