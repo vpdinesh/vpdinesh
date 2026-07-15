@@ -99,12 +99,13 @@ A local AI system that indexes test reports and documentation, then answers natu
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=vpdinesh&show_icons=true&theme=default" height="165" />
-  ://github-readme-stats.vercel.app/api/top-langs/?username=vpdinesh&layout=compact" height="165" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpdinesh&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpdinesh&layout=compact)
+
 
 <p align="center">
   <i>"I use AI to build test systems faster — but I validate every output before it ships."</i>
